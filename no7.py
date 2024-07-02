@@ -26,3 +26,5 @@ for c in test:
             di += 1
     if ch>0 and di>0:
         print(c)
+        # change code
+        
