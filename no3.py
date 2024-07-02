@@ -13,3 +13,4 @@ def mixed_string(s1, s2):
 s1=input()
 s2=input()
 mixed_string(s1,s2)
+# change code
