@@ -16,3 +16,4 @@ num_char, num_digit, num_symbol=count_chars_digits_symbols(s)
 print("Chars={}".format(num_char))
 print("Digits={}".format(num_digit))
 print("Symbol={}".format(num_symbol))
+# change code
