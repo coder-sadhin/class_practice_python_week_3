@@ -6,3 +6,4 @@ def arrange(s):
 input_string = input()
 result = arrange(input_string)
 print(result)
+# change
