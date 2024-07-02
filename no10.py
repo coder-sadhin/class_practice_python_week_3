@@ -17,3 +17,4 @@ string, k = input(), int(input())
 
 
 merge_tools(string, k)
+# change code
