@@ -11,3 +11,4 @@ def create_new_string(s):
         middle = s[length // 2]
         return f"{s[0]}{middle}{s[-1]}"
 
+# chagne code
