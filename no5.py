@@ -8,3 +8,4 @@ def count_characters(s):
 
 input_string = input()
 count_characters(input_string)
+# change code
