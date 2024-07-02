@@ -12,6 +12,7 @@
 #         s=int(char)
 #         sum+=s
 # print(sum,sum/count)
+# change code
 
 t=input()
 total=0
